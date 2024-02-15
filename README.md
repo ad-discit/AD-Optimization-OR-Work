@@ -1,4 +1,6 @@
 # AD-Optimization-OR-Work
+# Important: Please read the description above each script. Sources are cited (including any code generators, forums, etc.), the APIs that might have been used are mentioned, along with a brief explanation of the choices I made for each algorithm.
+
 This semester, under the guidance of Professor M. Villà i Freixa.
 I'll delve into Optimization and Operations Research, exploring system modeling principles, algorithm efficiency, problem complexity, search space considerations (feasible regions), and gaining practical experience in programming.
 
