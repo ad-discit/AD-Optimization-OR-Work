@@ -1,0 +1,5 @@
+Source,Sink1,Sink2,Sink3,Sink4,Sink5,Supply
+Warehouse1,28,7,16,2,30,20.0
+Warehouse2,18,8,14,4,20,20.0
+Warehouse3,10,12,13,5,28,25.0
+Demand,12,14,12,18,9,
